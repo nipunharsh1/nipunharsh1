@@ -15,5 +15,5 @@
 2. **Crypto Tracker** – Real-time price tracker using CoinGecko API. [Repo](#)
 3. **Portfolio Website** – Personal website with React + Tailwind. [Repo](https://github.com/nipunharsh1/portfolio)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipungamage&show_icons=true)
