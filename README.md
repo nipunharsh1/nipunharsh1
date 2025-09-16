@@ -14,7 +14,7 @@
 1. **Gym Management System** – Full-stack web app for gym client management. [Repo](#)
 2. **Crypto Tracker** – Real-time price tracker using CoinGecko API. [Repo](#)
 3. **Portfolio Website** – Personal website with React + Tailwind. [Repo](https://github.com/nipunharsh1/portfolio)
-4.**Fruits and Vegetables Image Recognition** [Repo](https://github.com/nipunharsh1/Fruits-and-Vegetables-Image-Recognition-Model)
+4. **Fruits and Vegetables Image Recognition** [Repo](https://github.com/nipunharsh1/Fruits-and-Vegetables-Image-Recognition-Model)
 
 ## 📈 GitHub Stats.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipungamage&show_icons=true)
